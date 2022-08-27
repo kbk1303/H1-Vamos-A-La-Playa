@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Vamos-A-La-Playa": {
+      "commandName": "Project",
+      "commandLineArgs": "--random"
+    }
+  }
+}
